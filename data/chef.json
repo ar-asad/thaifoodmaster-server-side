@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/72q6tRj/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+        "name": "John Smith",
+        "experience": 15,
+        "recipes": 75,
+        "likes": 250,
+        "description": "Chef John Smith is a renowned expert in Thai cuisine, with a passion for blending traditional and modern flavors to create unique and delicious dishes. He has trained in Thailand and around the world, and his recipes have won numerous awards and accolades."
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/T8hy9PM/mario-ci-F10n-RBW7o-unsplash.jpg",
+        "name": "Nongkran Daks",
+        "experience": 10,
+        "recipes": 50,
+        "likes": 200,
+        "description": "Chef Nongkran Daks is a master of Thai cooking with over two decades of experience. She grew up in Thailand and learned the art of cooking from her family. Her passion for Thai cuisine has taken her to many parts of the world, where she has shared her knowledge and expertise with others."
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/R6XRKvn/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+        "name": "Maliwan Thai",
+        "experience": 12,
+        "recipes": 60,
+        "likes": 180,
+        "description": "Chef Maliwan Thai is a rising star in the world of Thai cuisine. She has trained in Thailand and the United States, and her innovative dishes have earned her a reputation for creativity and excellence. Her love of cooking shines through in every dish she creates."
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/GvS0J7M/cook-putting-vegetable-plate-with-salad.jpg",
+        "name": "Srisuda Dougherty",
+        "experience": 8,
+        "recipes": 40,
+        "likes": 150,
+        "description": "Chef Srisuda Dougherty is a true master of Thai cooking, with over two decades of experience creating delicious and authentic dishes. She has studied in Thailand and the United States, and her recipes are beloved by people all over the world."
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/PWWGHPb/view-chef-working-kitchen.jpg",
+        "name": "David Thompson",
+        "experience": 6,
+        "recipes": 30,
+        "likes": 120,
+        "description": "Chef David Thompson is a world-renowned expert in Thai cuisine, with a deep understanding of the history, culture, and ingredients that make up this fascinating cuisine. His recipes are known for their authenticity and complexity, and his passion for Thai cooking has earned him numerous awards and accolades."
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/8dM3w1L/smiling-chef-recommended-main-course.jpg",
+        "name": "Nuit Regular",
+        "experience": 4,
+        "recipes": 20,
+        "likes": 90,
+        "description": "Chef Nuit Regular is a master of Thai cooking, with a focus on the bold and vibrant flavors of Northern Thailand. Her recipes are influenced by her upbringing in Thailand and her travels around the world, and her commitment to quality and authenticity is evident in every dish she creates."
+    }
+]
