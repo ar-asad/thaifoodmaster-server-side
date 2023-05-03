@@ -1,0 +1,347 @@
+[
+    {
+        "id": "60b97dc181e73d7db8c369b3",
+        "recipe_id": 1,
+        "image": "https://i.ibb.co/MgyNXvK/pork-curry-thai-cuisine-wooden-background-compressed.jpg",
+        "name": "Tom Yum Soup",
+        "ingredients": [
+            "lemongrass",
+            "galangal",
+            "kaffir lime",
+            "chili peppers",
+            "mushrooms"
+        ],
+        "method": "1. Boil lemongrass, galangal, and kaffir lime leaves in water.\n2. Add chili peppers, mushrooms, lime juice, fish sauce, and sugar.\n3. Add shrimp and cook until opaque.\n4. Serve hot.",
+        "rating": 4.8
+    },
+    {
+        "id": "609c13547f3b3d17d9c1c2d2",
+        "recipe_id": 1,
+        "image": "https://i.ibb.co/NKKyFrz/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients-compressed.jpg",
+        "name": "Tom Kha Gai Soup",
+        "ingredients": [
+            "coconut milk",
+            "lemongrass",
+            "galangal",
+            "kaffir lime ",
+            "chicken"
+        ],
+        "method": "1. Boil lemongrass, galangal, and kaffir lime leaves in coconut milk.\n2. Add chicken and mushrooms and simmer until cooked.\n3. Add lime juice, fish sauce, sugar, and chili peppers.",
+        "rating": 4.5
+    },
+    {
+        "id": "60a0a20f47b15d29a72f0517",
+        "recipe_id": 1,
+        "image": "https://i.ibb.co/HYZLvvW/thai-food-tom-yum-seafood-seafood-spicy-soup-1-compressed.jpg",
+        "name": "Gaeng Jued Soup",
+        "ingredients": [
+            "chicken broth",
+            "tofu",
+            "shrimp",
+            "carrots",
+            "cabbage"
+        ],
+        "method": "1. Bring chicken broth to a boil.\n2. Add tofu, shrimp, carrots, cabbage, mushrooms, garlic, and pepper.\n3. Simmer until vegetables are tender.\n4. Serve hot with chopped ",
+        "rating": 4.2
+    },
+    {
+        "id": "60b0a207dce5b04166a0ec99",
+        "recipe_id": 1,
+        "image": "https://i.ibb.co/NKKyFrz/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients-compressed.jpg",
+        "name": "Kaeng Som Soup",
+        "ingredients": [
+            "fish",
+            "shrimp",
+            "lemongrass",
+            "galangal",
+            "tamarind paste"
+        ],
+        "method": "1. Boil fish and shrimp in water with lemongrass and galangal.\n2. Add tamarind paste, chili peppers, fish sauce, and sugar.\n3. Add tomatoes and pineapple.\n4. ",
+        "rating": 4.6
+    },
+    {
+        "id": "609c34e5d5f1fa2c9b51d61d",
+        "recipe_id": 2,
+        "image": "https://i.ibb.co/9Tp8wCC/close-up-high-protein-soup-meal-compressed.jpg",
+        "name": "Tom Kha Curry",
+        "ingredients": [
+            "coconut milk",
+            "lemongrass",
+            "galangal",
+            "chicken",
+            "lime leaves"
+        ],
+        "method": "1. Bring coconut milk to a simmer with lemongrass, galangal, and lime leaves.\n2. Add chicken and simmer until cooked through.\n3. Serve with rice.",
+        "rating": 4.8
+    },
+    {
+        "id": "60a3d4c4d6386c12a6e1f6a8",
+        "recipe_id": 2,
+        "image": "https://i.ibb.co/bWNzMK1/thai-food-tom-yum-seafood-seafood-spicy-soup-compressed.jpg",
+        "name": "Pad See Curry",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "broccoli",
+            "soy sauce",
+            "oyster sauce"
+        ],
+        "method": "1. Stir fry beef until browned.\n2. Add broccoli and stir fry for 2 minutes.\n3. Add rice noodles, soy sauce, and oyster sauce.\n4. Stir fry until noodles are tender.\n5. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "id": "609c19c23d153e1d57c6fc4a",
+        "recipe_id": 2,
+        "image": "https://i.ibb.co/Dr52L16/chicken-curry-pan-with-lemongrass-kaffir-lime-leaves-tomatoes-lemon-garlic-compressed.jpg",
+        "name": "Green Curry",
+        "ingredients": [
+            "green curry ",
+            "coconut milk",
+            "chicken",
+            "bamboo shoots",
+            "Thai basil"
+        ],
+        "method": "1. Fry curry paste in a pan until fragrant.\n2. Add coconut milk, chicken, and bamboo shoots.\n3. Simmer until chicken is cooked through.\n4. Garnish with Thai basil.",
+        "rating": 4.7
+    },
+    {
+        "id": "60b9a6dcf95d694247deabbb",
+        "recipe_id": 2,
+        "image": "https://i.ibb.co/SyRF7Sh/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food-compressed.jpg",
+        "name": "Massaman Curry",
+        "ingredients": [
+            "massaman curry ",
+            "coconut milk",
+            "beef",
+            "potatoes",
+            "peanuts"
+        ],
+        "method": "1. Fry curry paste in a pan until fragrant.\n2. Add coconut milk, beef, and potatoes.\n3. Simmer until beef is cooked through.\n4. Garnish with peanuts.\n5. Serve with rice.",
+        "rating": 4.6
+    },
+    {
+        "id": "609c3775c0f5cb52b0c5b8c9",
+        "recipe_id": 4,
+        "image": "https://i.ibb.co/cb6wxS2/spicy-minced-pork-white-plate-compressed.jpg",
+        "name": "Massaman Curry with Mutton",
+        "ingredients": [
+            "mutton",
+            "Massaman curry",
+            "coconut milk",
+            "potatoes",
+            "onions"
+        ],
+        "method": "1. Heat Massaman curry paste in a pot.\n2. Add coconut milk and bring to a boil.\n3. Add mutton and cook until browned.\n4. Add potatoes, onions, peanuts, tamarind paste.",
+        "rating": 4.9
+    },
+    {
+        "id": "60a2a1a34c874b272d61da28",
+        "recipe_id": 4,
+        "image": "https://i.ibb.co/1Zpr6Mh/grilled-pork-liver-white-plate-compressed-1.jpg",
+        "name": "Mutton Green Curry",
+        "ingredients": [
+            "green curry ",
+            "coconut milk",
+            "mutton",
+            "eggplant",
+            "bamboo shoots"
+        ],
+        "method": "1. Heat green curry paste in a pot.\n2. Add coconut milk and bring to a boil.\n3. Add mutton, eggplant, bamboo shoots, fish sauce, and sugar.\n4. Simmer until mutton is cooked.",
+        "rating": 4.6
+    },
+    {
+        "id": "609c1f7b8bb9b109d7b45ec5",
+        "recipe_id": 4,
+        "image": "https://i.ibb.co/PCcT7FW/spicy-minced-pork-rice-black-plate-compressed.jpg",
+        "name": "Spicy Mutton Stir Fry",
+        "ingredients": [
+            "mutton",
+            "bird's eye ",
+            "garlic",
+            "shallots",
+            "lemongrass"
+        ],
+        "method": "1. Stir-fry mutton in a wok until browned.\n2. Add bird's eye chilies, garlic, shallots, and lemongrass.\n3. Stir in holy basil leaves and add fish sauce, soy sauce.",
+        "rating": 4.3
+    },
+    {
+        "id": "60b901f413d7e515a704bb62",
+        "recipe_id": 4,
+        "image": "https://i.ibb.co/6wqqT23/stir-fried-rice-noodles-with-soy-sauce-pork-white-background-compressed.jpg",
+        "name": "Mutton Yellow Curry",
+        "ingredients": [
+            "mutton",
+            "yellow curry ",
+            "coconut milk",
+            "potatoes",
+            "onions"
+        ],
+        "method": "1. Heat yellow curry paste in a pot.\n2. Add coconut milk and bring to a boil.\n3. Add mutton and cook until browned.\n4. Add potatoes, onions, carrots, fish sauce.",
+        "rating": 4.1
+    },
+    {
+        "id": "60a2f27c7d01bc3073e09a04",
+        "recipe_id": 5,
+        "image": "https://i.ibb.co/YPm4R94/tilapia-fried-with-chilli-sauce-squid-lemon-garlic-plate-white-wooden-table-compressed.jpg",
+        "name": "Pla Rad Prik (Fried Fish with Chili Paste)",
+        "ingredients": [
+            "fish",
+            "flour",
+            "garlic",
+            "chili paste",
+            "sugar"
+        ],
+        "method": "1. Coat fish in flour and fry in oil until golden brown.\n2. Saute garlic and chili paste in a pan.\n3. Add sugar, fish sauce, and lime juice and stir until sugar is dissolved.",
+        "rating": 4.8
+    },
+    {
+        "id": "609c170a93029e18789c7b1f",
+        "recipe_id": 5,
+        "image": "https://i.ibb.co/tx0Fj5r/spicy-fried-tubtim-fish-salad-spicy-thai-food-1-compressed.jpg",
+        "name": "Tom Yum Fish Soup",
+        "ingredients": [
+            "fish",
+            "tom yum paste",
+            "coconut milk",
+            "mushrooms",
+            "lemongrass"
+        ],
+        "method": "1. Boil water and add tom yum paste.\n2. Add coconut milk, fish, mushrooms, lemongrass, lime juice, fish sauce, and sugar.\n3. Simmer until fish is cooked through.\n4.",
+        "rating": 4.6
+    },
+    {
+        "id": "60b97d49e141e43c09d556da",
+        "recipe_id": 5,
+        "image": "https://i.ibb.co/LRZMTmX/fried-tilapia-with-chili-sauce-lemon-salad-garlic-plate-white-wooden-background-compressed.jpg",
+        "name": "Stir-Fried Fish with Holy Basil",
+        "ingredients": [
+            "fish",
+            "holy basil leaves",
+            "garlic",
+            "bird's eye ",
+            "fish sauce"
+        ],
+        "method": "1. Cut fish into bite-sized pieces and dust with cornstarch.\n2. Fry fish in oil until golden brown and set aside.\n3. Stir-fry garlic and chilies in a wok.\n4. Add fish sauce.",
+        "rating": 4.4
+    },
+    {
+        "id": "60a2fa1d39c8e22ea25c15aa",
+        "recipe_id": 5,
+        "image": "https://i.ibb.co/ysgCRtd/spicy-fried-tubtim-fish-salad-spicy-thai-food-compressed.jpg",
+        "name": "Fish Curry with Eggplant",
+        "ingredients": [
+            "fish",
+            "green curry",
+            "coconut milk",
+            "eggplant",
+            "kaffir lime"
+        ],
+        "method": "1. Heat green curry paste in a pot.\n2. Add coconut milk and bring to a boil.\n3. Add fish, eggplant, kaffir lime leaves, fish sauce, and sugar.\n4. Simmer until fish is cooked through..",
+        "rating": 4.1
+    },
+    {
+        "id": "609c146ba775a05a6f64b68f",
+        "recipe_id": 3,
+        "image": "https://i.ibb.co/m0nTZ7J/fried-rice-with-eggs-white-plate-wood-surface-compressed.jpg",
+        "name": "Khao Pad Rice",
+        "ingredients": [
+            "3 cups cookee",
+            "2 tablespoons ",
+            "1 small onion",
+            "3 cloves garli",
+            "2 eggs, lightly"
+        ],
+        "method": "1. Heat the oil in a large wok or skillet over high heat. Add the onion and garlic and stir-fry for 1 minute.\n2. Add the eggs and stir-fry until scrambled.",
+        "rating": 4.5
+    },
+    {
+        "id": "60a49f9eafea12320f2c6791",
+        "recipe_id": 3,
+        "image": "https://i.ibb.co/4Zh9ZW3/rice-cooked-white-dish-compressed.jpg",
+        "name": "Soi Khao Rice",
+        "ingredients": [
+            "1 pound boneless",
+            "2 tablespoons red ",
+            "1 can coconut milk",
+            "2 cups chicken ",
+            "1 tablespoon fish"
+        ],
+        "method": "1. In a large pot or Dutch oven, heat the curry paste over medium heat until fragrant, about 2 minutes.\n2. Add the chicken and cook until browned on all sides, about 5 minutes..",
+        "rating": 4.8
+    },
+    {
+        "id": "60b94b983af4e71f3e925098",
+        "recipe_id": 3,
+        "image": "https://i.ibb.co/xC40Pf2/rice-with-basil-minced-pork-compressed.jpg",
+        "name": "Khao Soi Rice",
+        "ingredients": [
+            "1 pound boneless",
+            "2 tablespoons red ",
+            "1 can coconut milk",
+            "2 cups chicken broth",
+            "1 tablespoon fish sauce"
+        ],
+        "method": "1. In a large pot or Dutch oven, heat the curry paste over medium heat until fragrant, about 2 minutes.\n2. Add the chicken and cook until browned on all sides, about 5 minutes..",
+        "rating": 4.8
+    },
+    {
+        "id": "609c382f22d6fc1c59fc98f6",
+        "recipe_id": "6",
+        "image": "https://i.ibb.co/m9HGryL/basil-minced-pork-with-rice-fried-egg-compressed.jpg",
+        "name": "Thai Omelette",
+        "ingredients": [
+            "2 large eggs",
+            "1 tablespoon fish ",
+            "1/2 teaspoon sugar",
+            "1/4 teaspoon black ",
+            "1/4 cup sliced "
+        ],
+        "cooking_method": "1. In a medium bowl, whisk together the eggs, fish sauce, sugar, and black pepper. Stir in the scallions.\n2. Heat the oil in a nonstick skillet over medium-high heat.",
+        "rating": 4.7
+    },
+    {
+        "id": "60a3d9e25c19142e06969d28",
+        "recipe_id": "6",
+        "image": "https://i.ibb.co/WHm8HHw/crispy-omelet-topped-with-minced-pork-mixed-vegetables-sauce-compressed.jpg",
+        "name": " Thai Cashew Egg",
+        "ingredients": [
+            "1 pound boneless, ",
+            "1/4 cup soy sauce",
+            "1/4 cup oyster sauce",
+            "2 tablespoons vegetable",
+            "3 cloves garlic,"
+        ],
+        "cooking_method": "1. In a medium bowl, stir together the soy sauce and oyster sauce. Add the chicken and toss to coat.\n2. Heat the oil in a large skillet or wok over high heat.",
+        "rating": 4.5
+    },
+    {
+        "id": "60b9364c5301c73e64cf9202",
+        "recipe_id": "6",
+        "image": "https://i.ibb.co/m9HGryL/basil-minced-pork-with-rice-fried-egg-compressed.jpg ",
+        "name": "Thai Fried Eggs",
+        "ingredients": [
+            "2 large eggs",
+            "1 tablespoon soy ",
+            "1 tablespoon oyster ",
+            "1/4 teaspoon black ",
+            "2 tablespoons vegetable "
+        ],
+        "method": "1. In a medium bowl, whisk together the eggs, soy sauce, oyster sauce, and black pepper.\n2. Heat the oil in a nonstick skillet over medium heat. When the oil is hot.",
+        "rating": 4.3
+    },
+    {
+        "id": "",
+        "recipe_id": "6",
+        "image": "https://i.ibb.co/m9HGryL/basil-minced-pork-with-rice-fried-egg-compressed.jpg",
+        "name": "Thai Fried Eggs",
+        "ingredients": [
+            "2 large eggs",
+            "1 tablespoon soy ",
+            "1 tablespoon oyster ",
+            "1/4 teaspoon black ",
+            "2 tablespoons vegetable "
+        ],
+        "method": "1. In a medium bowl, whisk together the eggs, soy sauce, oyster sauce, and black pepper.\n2. Heat the oil in a nonstick skillet over medium heat. When the oil is hot.",
+        "rating": 4.3
+    }
+]
